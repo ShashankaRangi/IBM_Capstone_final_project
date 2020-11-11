@@ -1,0 +1,21 @@
+Introduction/Business Problem:
+
+According to the World Health Organisation, approximately 1.35 million people die each year as a result of road traffic accidents.Children and young adults in the age group of 5-29 years of age are the most effected and the most vulnerable among the road users are pedestrians, cyclists, and motorcyclists.Some of the reasons contributing to this problem are bad weather conditions like heavy rains, snow & bright sun, people who don't follow road rules, inexperienced drivers and bad junctions etc. As a result of road accidents there can be huge economic loss to individuals and to the nation as a whole. Non-fatal injuries can cause lifelong disabilities and sometimes we can even lose our loved ones. With advancement in technology and vast availability of data, it is highly important to develop a model that can predict the accident and it's severity so that we can save valuable lives and help the economy. In this project, I will be attempting to develop a model that can predict the accidents and it's severity in the American city, Seattle.
+
+The target audience who'd be interested in this problem are the drivers themselves who can opt to get alerts, health and emergency departments, the police and the insurance companies.
+
+
+Data:
+
+The data required for this project will be obtained from the Seattle Police Department and Accident Traffic Records Department from 2004 to present.
+
+The data consists of 37 independent variables and 194,673 rows. The dependent variable, “SEVERITYCODE”, contains numbers that correspond to different levels of severity caused by an accident from 0 to 4.
+Severity codes are as follows:
+0: Little to no Probability (Clear Conditions)
+1: Very Low Probability — Chance or Property Damage
+2: Low Probability — Chance of Injury
+3: Mild Probability — Chance of Serious Injury
+4: High Probability — Chance of Fatality
+
+
+
